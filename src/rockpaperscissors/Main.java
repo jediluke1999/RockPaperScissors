@@ -5,5 +5,6 @@ public class Main {
 		EventHandlers.userPick();
 		EventHandlers.Game();
 		EventHandlers.tryAgain();
+		return;
 		}
 }
